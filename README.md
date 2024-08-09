@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2e18c5c5-c8af-4dcd-aabf-f2a9e4f41b75)# embodiedAI
+# embodiedAI
 
 
 内容整理自：https://github.com/AlexanderKoch-Koch/low_cost_robot
